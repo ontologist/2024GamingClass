@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/yuritijerino/Documents/GitHub/2024MediaSeminar/PickupGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/yuritijerino/Dropbox/2024MediaSeminar-GameDevelopment/PickupGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/yuritijerino/Dropbox/2024MediaSeminar-GameDevelopment/PickupGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/yuritijerino/Dropbox/2024MediaSeminar-GameDevelopment/PickupGame/Content/PickupGame/Blueprint/Characters/BP_EnemyAI.uasset",
+				"/Users/yuritijerino/Dropbox/2024MediaSeminar-GameDevelopment/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HO/WZEZ9HQSNW2WAM47RQVO39.uasset",
+				"/Users/yuritijerino/Dropbox/2024MediaSeminar-GameDevelopment/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UB/VOQ17T13CM0ARVN8KWR6QM.uasset",
+				"/Users/yuritijerino/Dropbox/2024MediaSeminar-GameDevelopment/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/T8/C6JEKPDV12RX51CMJCI1RW.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/PickupGame/Blueprint/Items/BP_PickupItem.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8A/ZIXRRS83IT1SUNQDYCC5SY.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OD/9IKPXWHVV8PCYL5H0HORW8.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/O1/FGNFROLANHYOG2ED7V966U.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IA/2OVFMEHHWHCZIAFONU7YJL.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TF/0E1LVYS64LQ4QJFZ5944PB.uasset",
+				"C:/Users/mario/Documents/Unreal Projects/PickupGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YT/65OB9XMOSQ8TX224UBQP0S.uasset"
+			]
+		}
+	]
+}
